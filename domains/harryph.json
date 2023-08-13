@@ -3,8 +3,9 @@
     "repo": "https://github.com/harryph9/harryph9.github.io",
     "owner": {
         "username": "harryph9",
-        "email": "hylam399@gmail.com",
+        "email": "hylam399@gmail.com"
     },
-    "record": "harryph.is-a.dev"
+    "record": {
+        "CNAME": "harryph.is-a.dev"
     }
 } 
