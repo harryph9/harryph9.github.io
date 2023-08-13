@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Harry&#39;s website</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Harry&#39;s website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 12 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to my website</title>
+      <link>http://example.org/blog/welcome/</link>
+      <pubDate>Sat, 12 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/blog/welcome/</guid>
+      <description>Hello world</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>Hi there! Welcome to my website.I am Huy Lam (you can call me Harry) a junior high school student in Vietnam, a website developer currently living at Da Nang City, Vietnam.
+I&amp;rsquo;m really interested in programming and learning more stuff in free time. I also like explore about Linux, sysadmin, security and FOSS (Free and open-source software).
+Current tech stack:
+ Competitive Programming: C/C++ Server-side: Golang Front-end development: HTML/SCSS/JS, Vue (framework) Scripting: Bash  What I use:</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://example.org/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/contact/</guid>
+      <description>Primary communication:
+ Facebook: Huy Lâm Email: hylam399@gmail.com Discord: devofin#1446  I never had a Twitter, TikTok account.
+I am also available on Github, Instagram and Telegram.
+I played and had an account on chess.com.</description>
+    </item>
+    
+    <item>
+      <title>Webring</title>
+      <link>http://example.org/webring/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/webring/</guid>
+      <description>If you want to link my website, please let the button in your website.</description>
+    </item>
+    
+  </channel>
+</rss>

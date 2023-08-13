@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Harry&#39;s website</title>
+    <link>http://example.org/vn/</link>
+    <description>Recent content on Harry&#39;s website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="http://example.org/vn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kết nối</title>
+      <link>http://example.org/vn/webring/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/vn/webring/</guid>
+      <description>Nếu bạn muốn liên kết với website của tôi, xin vui lòng bỏ nút phía dưới đây vào website của bạn.</description>
+    </item>
+    
+    <item>
+      <title>Liên lạc</title>
+      <link>http://example.org/vn/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/vn/contact/</guid>
+      <description>Các kênh liên lạc chính:
+ Facebook: Huy Lâm Email: hylam399@gmail.com Discord: devofin#1446  Tôi không bao giờ có tải khoản Twitter, Tiktok.
+Tôi cũng có mặt trên Github, Instagram và Telegram.
+Tôi chơi cờ và có 1 tài khoản trên chess.com.</description>
+    </item>
+    
+    <item>
+      <title>Về tôi</title>
+      <link>http://example.org/vn/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/vn/about/</guid>
+      <description>Xin chào! chào mừng đã đến với website của tôi. Tôi là Huy Lâm (bạn có thể gọi là Harry), là một học sinh trung học, 1 nhà phát triển website đang sinh sống tại thành phố Đà Nẵng, Việt Nam.
+Tôi có hứng thú với lập trình và học hỏi thêm nhiều thứ mới trong thời gian rảnh. Tôi còn thích khám phá về Linux, sysadmin, bảo mật và FOSS(phần mềm miễn phí và mã nguồn mở)</description>
+    </item>
+    
+  </channel>
+</rss>

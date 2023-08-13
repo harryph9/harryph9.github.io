@@ -1,0 +1,101 @@
+baseURL = 'http://example.org/'
+title = "Harry's website"
+theme = "hugo-coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+paginate = 20
+
+disqusShortname = "Harry"
+
+[params]
+  author = "Harry"
+  info = "A website developer based in Vietnam"
+  description = "My portfolio"
+  keywords = "blog,developer,personal"
+  avatarUrl = "images/avatar.jpeg"
+
+
+  faviconSVG = "images/avatar.jpeg"
+
+  since = 2023
+
+  enableEmoji = true
+
+  colorScheme = "auto"
+  hidecolorschemetoggle = true
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
+
+# Social links
+[[params.social]]
+  name = "Github"
+  icon = "fa fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/harryph9/"
+[[params.social]]
+  name = "Facebook"
+  icon = "fa fa-facebook fa-2x"
+  weight = 2
+  url = "https://www.facebook.com/harryph99/"
+[[params.social]]
+  name = "Instagram"
+  icon = "fa fa-instagram fa-2x"
+  weight = 3
+  url = "https://www.instagram.com/hyylam._/"
+[[params.social]]
+  name = "Email"
+  icon = "fa fa-envelope fa-2x"
+  weight = 4
+  url = "mailto:hylam399@gmail.com"
+
+# Menu links
+[languages.en]
+languageName = ":uk:"
+
+[[languages.en.menu.main]]
+  name = "About"
+  weight = 1
+  url = "about/"
+[[languages.en.menu.main]]
+  name = "Blog"
+  weight = 2
+  url  = "blog/"
+[[languages.en.menu.main]]
+  name = "Contact"
+  weight = 3
+  url  = "contact/"
+[[languages.en.menu.main]]
+  name = "Webring"
+  weight = 4
+  url  = "webring/"
+
+[languages.vn]
+languageName = ":vietnam:"
+
+[languages.vn.params]
+author = "Harry"
+info = "Lập trình viên sinh ra và lớn lên tại Việt Nam"
+description = "Harry's website"
+keywords = "bài viết, phát triển, cá nhân"
+
+[[languages.vn.menu.main]]
+  name = "Về tôi"
+  weight = 1
+  url = "about/"
+[[languages.vn.menu.main]]
+  name = "Bài viết"
+  weight = 2
+  url  = "blog/"
+[[languages.vn.menu.main]]
+  name = "Liên hệ"
+  weight = 3
+  url  = "Contact/"
+[[languages.vn.menu.main]]
+  name = "Kết nối"
+  weight = 4
+  url  = "webring/"
